@@ -3,7 +3,7 @@ This is a toolbox that integrates all the tools that can help you deepen your un
 
 ## This Repository
 
-- [DeepracerAutoSumbit](deepracer-auto-sumbit)
+- [DeepracerAutoSumbit](deepracer-autosumbit)
 - [DeepracerCoordiante](deepracer-coordiante)
 - [DeepracerWaypointGenerator](deepracer-waypoint)
 
